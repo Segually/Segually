@@ -12,5 +12,5 @@ that's pretty much all there is to say, i guess?
 
 <details>
   <summary>...</summary>
-  [test](https://github.com/Segually/Segually/blob/main/3DES/%5C)
+  [test](https://github.com/Segually/Segually/blob/main/)
 </details>
