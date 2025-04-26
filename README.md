@@ -11,6 +11,6 @@ My name is Segual! I'm passionate about creating videos, games, whatever I feel 
 that's pretty much all there is to say, i guess?
 
 <details>
-  <summary>Click to reveal spoiler</summary>
-  This is a spoiler!
+  <summary>...</summary>
+  sorry, not today!
 </details>
