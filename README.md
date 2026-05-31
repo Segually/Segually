@@ -1,16 +1,17 @@
-## Hi there 👋
+## Segually
+Reverse engineer & modder with a focus on Unity mobile games, networking, and runtime behaviour.
 
-<!--
-**Segually/Segually** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Focus Areas
+* **Unity game reverse engineering** - IL2CPP binaries, library inspection
+* **Network analysis** - capture, mutate, send packets
+* **Game internals** - multiplayer, custom formats
 
-Here are some ideas to get you started:
+## Open Source Contributions
+* **[Hybrid Animals Multiplayer](https://github.com/eris-webserv/HAMP)** - Started and contributed to the revival of Hybrid Animals' multiplayer
+* **[Hybrid Animals Mod Helper](https://github.com/eris-webserv/HAModHelper)** - Contributed to the modding API for custom content in Hybrid Animals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+Stay tuned to find out my latest projects!
+
+![Stars](https://img.shields.io/github/stars/Segually?style=flat&color=f7a84f&label=Stars)
+![Followers](https://img.shields.io/github/followers/Segually?style=flat&color=4f8ef7&label=Followers)
